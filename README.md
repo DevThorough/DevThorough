@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Embedded Projects and AI Projects
+- 🔭 I’m currently working on Automation Projects and AI Projects
 - 🌱 Always grinding or learning somerthing new!
 - 🤔 I’m considering getting certified in a cloud platform
 - 💬 Ask me about contributing to your Project
