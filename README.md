@@ -13,7 +13,7 @@
 - 💼  Two agency internships: built automation tools, reporting dashboards, and API integrations for real clients
 - 🌱  Currently exploring cloud platforms (AWS/Azure) and expanding into AI/ML applications
 - 🤝  Open to junior SWE, data analyst, IT analyst, and QA roles — Houston or Remote
-- 📫  Reach me at **devinisreal@gmail.com** or through [myname.dev](https://myname.dev)
+- 📫  Reach me at **devinisreal@gmail.com** 
  
 ---
  
