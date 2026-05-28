@@ -2,7 +2,7 @@
  
 **Computer Science Graduate  |  Full-Stack Developer  |  Houston, TX**
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/devinisrealsmith)  [![Portfolio](https://img.shields.io/badge/Portfolio-myname.dev-1A5276?style=flat&logo=google-chrome)](https://myname.dev)  [![Email](https://img.shields.io/badge/Email-devinisreal%40gmail.com-D14836?style=flat&logo=gmail)](mailto:devinisreal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/devinisrealsmith)  [![Email](https://img.shields.io/badge/Email-devinisreal%40gmail.com-D14836?style=flat&logo=gmail)](mailto:devinisreal@gmail.com)
  
 ---
  
