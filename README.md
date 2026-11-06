@@ -31,7 +31,7 @@
  
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Marketing Reporting Dashboard](https://github.com/DevThorough/marketing-reporting-dashboard) | Automated client reporting dashboard with real-time data aggregation and API integrations built for a live marketing agency | Python, Angular |
+<!--| [Marketing Reporting Dashboard](https://github.com/DevThorough/marketing-reporting-dashboard) | Automated client reporting dashboard with real-time data aggregation and API integrations built for a live marketing agency | Python, Angular | -->
 | [AI RL Path Discovery](https://github.com/DevThorough/AI-RL-PD_World) | Reinforcement learning solution for autonomous 3-agent path discovery and transportation | JavaScript |
 | [Data Science Analysis](https://github.com/DevThorough/Data-Science-COSC3337_Project) | Applied data science — analysis, visualization, and predictive modeling | Python, Jupyter |
 | [Project Management Software](https://github.com/DevThorough/ProjectManagementSoftware) | Full-stack project management web app | C#, .NET MVC |
